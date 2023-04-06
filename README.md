@@ -6,9 +6,12 @@ OpenAI's ChatGPT model for generating responses to user prompts.
 
 # Language & Libraries:
 ```
- openai, pyperclip, os
- rich
- threading
- tkinter
+ * Python
+ * openai
+ * pyperclip 
+ * os
+ * rich
+ * threading
+ * tkinter
  
  ```
