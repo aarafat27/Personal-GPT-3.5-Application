@@ -14,4 +14,12 @@ OpenAI's ChatGPT model for generating responses to user prompts.
  * threading
  * tkinter
  
-
+# Features of the program:
+ * The program uses OpenAI's ChatGPT model for generating responses to user prompts.
+ * It has a GUI with a search bar and a response section.
+ * The program automatically clears the search bar after a successful search.
+ * The program uses a progress bar to indicate that a response is being generated.
+ * The program displays the prompt that was searched in the prompt section of the GUI.
+ * The response section of the GUI displays the generated response from the ChatGPT model.
+ * The program copies the generated response to the clipboard automatically after displaying it in the response section of the GUI.
+ * The program is designed to handle errors that may occur during response generation and display appropriate error messages to the user.
